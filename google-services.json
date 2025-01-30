@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75862406301",
+    "project_id": "pharmassist-a8797",
+    "storage_bucket": "pharmassist-a8797.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75862406301:android:ce06f1faab3da6ecee1074",
+        "android_client_info": {
+          "package_name": "com.pharmassistcx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtuv4qVLgK8_6TjRa_LU0M7yUiA5meahI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
