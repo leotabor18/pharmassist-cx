@@ -252,7 +252,7 @@ const FindPharmacy = () => {
                       <MapViewDirections
                         origin={location}
                         destination={item.latLng}
-                        apikey={'AIzaSyArqkzzkg1IJoYt0qd69tIJs4N5LP1yXws'}
+                        apikey={''}
                         strokeColor='#136192'
                         strokeWidth={5}
                       />
