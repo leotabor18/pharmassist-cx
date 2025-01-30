@@ -351,7 +351,7 @@ const Pharmacy = () => {
                   <MapViewDirections
                     origin={location}
                     destination={pin}
-                    apikey={'AIzaSyArqkzzkg1IJoYt0qd69tIJs4N5LP1yXws'}
+                    apikey={''}
                     strokeColor='#136192'
                     strokeWidth={5}
                     onReady={result => {
